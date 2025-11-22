@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv) != 6:
-  print("Usage: python student.py <sub1> <sub2> <sub3> <sub4> <sub5>")
+  print("Usage: python grade.py <sub1> <sub2> <sub3> <sub4> <sub5>")
   sys.exit(1)
 sub1 = int(sys.argv[1])
 sub2 = int(sys.argv[2])
